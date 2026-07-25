@@ -11,7 +11,7 @@
   "button_count": 2,
 
   "buttons": [
-    { "text": "View Repository 💻", "style": "success", "url": "https://github.com/" },
-    { "text": "Join Channel 📢", "style": "primary", "url": "https://t.me/" }
+    { "text": "View Repository 💻", "style": "success", "url": "https://github.com/Suchetamon27/TelePost" },
+    { "text": "Join Channel 📢", "style": "primary", "url": "https://t.me/telepostone" }
   ]
 }
