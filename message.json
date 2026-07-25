@@ -1,0 +1,17 @@
+{
+  "photo_enable": true,
+
+  "photo": "announcement.png",
+  "parse_mode": "HTML",
+
+  "has_spoiler": false,
+  "protect_content": false,
+
+  "buttons_enable": true,
+  "button_count": 2,
+
+  "buttons": [
+    { "text": "View Repository 💻", "style": "success", "url": "https://github.com/" },
+    { "text": "Join Channel 📢", "style": "primary", "url": "https://t.me/" }
+  ]
+}
