@@ -35,7 +35,7 @@ No complex frameworks required — simple, fast, and reliable.
 - Confirmation prompt for safety
 - Supports username, URL, or chat ID
 - Lightweight and fast
-- No database required
+- No database required 
 
 ---
 
